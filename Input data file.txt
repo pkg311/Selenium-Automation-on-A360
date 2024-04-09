@@ -1,0 +1,4 @@
+username:praveenkumar.gaurav@adani.com
+password:Ga1999av@
+login_url:https://community.cloud.automationanywhere.digital/#/login?
+Table_Inprogress_url:https://community.cloud.automationanywhere.digital/#/activity/inprogress
